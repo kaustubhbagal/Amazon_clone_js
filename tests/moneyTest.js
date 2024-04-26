@@ -24,3 +24,8 @@ if(formatCurrency(2000.5)==='20.01'){
 }else{
   console.log('failed');
 }
+
+if(count === 3){
+  console.log('passed');
+  
+}
